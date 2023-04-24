@@ -1,0 +1,52 @@
+.dark{
+    width: 100%;
+    max-width: 50px;
+    height: 50px;
+    background:rgb(255, 255, 255);
+    border-radius: 50px;
+    box-shadow: 0px 1px 6px gray;
+    padding: 10px;
+    float: right;
+    cursor: pointer;
+}
+.dark:hover{
+    box-shadow: 0px 0px 50px 15px rgb(106 106 106);
+}
+.remolua{
+    display: block;
+}
+.lua{
+    width: 100%;
+    max-width: 50px;
+    height: 50px;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 50px;
+    cursor: pointer;
+    float: right;
+    box-shadow: 0px 1px 6px rgb(211, 210, 210);
+    background:rgb(26, 26, 26);
+}
+.lua:hover{
+    box-shadow: 0px 0px 50px 15px rgb(106 106 106);
+}
+.remoluaaa{
+    display: none;
+}
+.remosol{
+    display: none;
+}
+.addsol{
+    display: block;
+}
+body{
+    background: #fff;
+}
+.dark-mode{
+    background: #242424;
+    color: #fff;
+}
+.btncora{
+    /*background:#fff;*/
+    color: #000;
+}
